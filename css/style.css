@@ -16,7 +16,7 @@ a {
     margin: 0;
     padding: 0;
     background-size: cover;
-    background-position-y: -18rem;
+    background-position-y: 0rem;
 }
 .buttons {
     display: flex;
@@ -33,9 +33,9 @@ a {
 .btn-bir {
     background-image: linear-gradient(
         to right,
-        #314755 0%,
+        #f0c2e1 0%,
         #da4ca6 51%,
-        #314755 100%
+        #df05e2 100%
     );
     margin: 10px;
     padding: 15px 45px;
@@ -79,9 +79,9 @@ a {
 .btn-gallery {
     background-image: linear-gradient(
         to right,
-        #f069af 0%,
-        #ee04ac 51%,
-        #f93a86 100%
+        #f0a8cd 0%,
+        #df4bb5 51%,
+        #f90768 100%
     );
 }
 .btn-gallery {
